@@ -267,3 +267,28 @@ export default function SectionBasics() {
       </div>
   );
 }
+
+// import React from "react";
+// // plugin that creates slider
+// import Slider from "nouislider";
+// // @material-ui/core components
+// import Search from "@material-ui/icons/Search";
+// import { makeStyles } from "@material-ui/core/styles";
+// import GridContainer from "components/Grid/GridContainer.js";
+// import GridItem from "components/Grid/GridItem.js";
+// import Button from "components/CustomButtons/Button.js";
+// import CustomInput from "components/CustomInput/CustomInput.js";
+// import Paginations from "components/Pagination/Pagination.js";
+// import TextField from "@material-ui/core/TextField";
+// import DialogContentText from "@material-ui/core/DialogContentText";
+// import styles from "assets/jss/material-kit-react/views/componentsSections/basicsStyle.js";
+// import Datetime from "react-datetime";
+// // @material-ui/core components
+
+// import Slide from "@material-ui/core/Slide";
+// import Dialog from "@material-ui/core/Dialog";
+// import DialogTitle from "@material-ui/core/DialogTitle";
+// import DialogContent from "@material-ui/core/DialogContent";
+// import DialogActions from "@material-ui/core/DialogActions";
+// // @material-ui/icons
+// import RecipeReviewCard from "components/Card/Card2.js";
